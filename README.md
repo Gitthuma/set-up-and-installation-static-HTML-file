@@ -10,3 +10,5 @@ React Tutorial: An Overview and Walkthrough
 By Tania Rascia
 
 Ref: https://www.taniarascia.com/getting-started-with-react/
+
+Live App: https://gitthuma.github.io/set-up-and-installation-static-HTML-file/
